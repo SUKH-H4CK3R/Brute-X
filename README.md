@@ -1,4 +1,3 @@
-GNU nano 7.2                                                      README.md
 # BruteX
 BruteX is A bruteForce attacking tool
 
@@ -32,7 +31,7 @@ BruteX is A bruteForce attacking tool
 + ```apt update```
 + ```apt upgrade```
 + ```apt install git -y```
-+ ```git clone https://github.com/MrHacker-X/BruteX.git/```
++ ```git clone https://github.com/SUKH-H4CK3R/Brute-X.git/```
 + ```cd BruteX```
 + ```chmod +x *```
 + ```bash setup.sh``` or ```./setup.sh```
@@ -41,7 +40,7 @@ BruteX is A bruteForce attacking tool
 ``` python brutex.py ``` or ``` python3 brutex.py ```
 ## Single line command:
 ```
-apt update && apt upgrade && apt install git -y && git clone https://github.com/MrHacker-X/BruteX.git/ && cd BruteX && chmod +x * && bash se>
+apt update && apt upgrade && apt install git -y && git clone https://github.com/SUKH-H4CK3R/Brute-X.git/ && cd BruteX && chmod +x * && bash se>
 ```
 
 
